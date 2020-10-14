@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cypretex.Data.Selectors</id>
+    <version>1.0.0</version>
+    <title>Cypretex.Data.Selectors</title>
+    <authors>Pablo Ramirez &lt;pablor21@gmail.com&gt;</authors>
+    <owners>Pablo Ramirez</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/pablor21/Cypretex.Data.Selectors</projectUrl>
+    <repository type="git" url="https://github.com/pablor21/Cypretex.Data.Selectors" branch="master" />
+    <description>Select subset of fields on clasess</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Linq Query Dynamic EntityFramework</tags>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <Authors>Pablo Ramirez &lt;pablor21@gmail.com&gt;</Authors>
+    <Copyright>Pablo Ramirez @2020</Copyright>
+    <PackageTags>Linq Query Dynamic EntityFramework</PackageTags>
+    <Description>Select a subset of properties of an object to return</Description>
+    <PackageLicenseUrl>https://github.com/pablor21/Cypretex.Data.Filters/blob/master/LICENSE</PackageLicenseUrl>
+    <Owners>Pablo Ramirez</Owners>
+    <PackageProjectUrl>https://github.com/pablor21/Cypretex.Data.Filters</PackageProjectUrl>
+    <Summary>Select a subset of properties of an object to return</Summary>
+    <Title>Cypretex.Data.Selectors</Title>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
